@@ -171,7 +171,7 @@
         title: "Banner",
         kind: "photos",
         images: [{
-          src: "assets/images/banner/8b599078-5176-4343-a790-fda78616f748.JPG",
+          src: "assets/images/banner/banner.jpg",
           alt: "Tinny Lianna's Daycare banner"
         }]
       },
